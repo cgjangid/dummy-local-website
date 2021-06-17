@@ -1,4 +1,4 @@
-# dummy-local-website
+# dummy-website-for-automation
 This is a dummy local website (no server required) which can be used for test automation practice.
 It is an open source bootstrap theme website with a few minor functionalities which are useful for test automation practice.
 
